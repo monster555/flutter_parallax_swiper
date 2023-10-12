@@ -4,7 +4,9 @@
 
 The Flutter Parallax Swiper UI Challenge showcases a dynamic parallax swiper widget, designed to elevate your user interface experiences. This widget allows you to create a horizontal swiper that displays a list of images with captivating parallax scrolling effects. Customize its behavior by providing image URLs, enabling drag-to-scroll, setting viewport fractions, adjusting padding, controlling the parallax factor, and toggling foreground fading and background zoom.
 
-https://github.com/monster555/flutter_parallax_swiper/assets/32662133/68dede02-4b72-493f-9563-30bb92ece02f
+
+https://github.com/monster555/flutter_parallax_swiper/assets/32662133/0f913f3b-94db-487d-9ff5-2af684febb95
+
 
 ### Example 1: 
 Using `ParallaxSwiper` with Default Values (Foreground Fading and Background Zoom Enabled):
