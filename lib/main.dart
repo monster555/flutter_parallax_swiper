@@ -6,7 +6,7 @@ void main() => runApp(const MyApp());
 /// The main application widget.
 ///
 /// This widget represents the root of the Flutter application. It configures
-/// the overall theme and sets the initial route to [ZoomSwiperPage].
+/// the overall theme and sets the initial route to [ParallaxSwiperPage].
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
